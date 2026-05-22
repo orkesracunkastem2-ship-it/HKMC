@@ -59,7 +59,7 @@ export default function About() {
                 Cikampek, Karawang
               </span>
               , we don&apos;t cut corners — we cut metal. Every frame is
-              measured. Every welds is scored. We build for the rider who
+              measured. Every weld is scored. We build for the rider who
               feels each mile before it happens.
             </p>
             <p className="text-base sm:text-lg text-steel-mid leading-[1.9] mb-8">
@@ -110,7 +110,7 @@ export default function About() {
               className="w-full aspect-[4/5] rounded-2xl bg-cover bg-center transition-transform duration-700 ease-out group-hover:scale-[1.02]"
               style={{
                 backgroundImage:
-                  'url(https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=1000&q=80)',
+                  'url(/images/workshop-2.jpg)',
               }}
             />
 

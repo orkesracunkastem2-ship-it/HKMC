@@ -23,7 +23,7 @@ const bikes: Bike[] = [
     frame: 'Tube Steel Chassis',
     hours: '420 hrs build',
     badge: 'Signature Style',
-    img: 'https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=900&q=80&auto=format&fit=crop',
+    img: '/images/bike-cafe-1.jpg',
   },
   {
     title: 'SCRAMBLER',
@@ -32,7 +32,7 @@ const bikes: Bike[] = [
     frame: 'Hardtail Steel Twin',
     hours: '380 hrs build',
     badge: 'Off-Road Born',
-    img: 'https://images.unsplash.com/photo-1449426468159-d96dbf08f19f?w=900&q=80&auto=format&fit=crop',
+    img: '/images/bike-scrambler-1.jpg',
   },
   {
     title: 'BOBBER',
@@ -40,8 +40,8 @@ const bikes: Bike[] = [
     engine: '1200cc V-Twin',
     frame: 'Drop-Frame Hardtail',
     hours: '550 hrs build',
-    badge: ' stripped & Rebored',
-    img: 'https://images.unsplash.com/photo-1571068316344-75bc76f77890?w=1200&q=80&auto=format&fit=crop',
+    badge: 'Stripped & Rebored',
+    img: '/images/bike-bobber-1.jpg',
     tall: true,
   },
   {
@@ -51,7 +51,7 @@ const bikes: Bike[] = [
     frame: 'UJM Diamond',
     hours: '320 hrs build',
     badge: 'Street Legal',
-    img: 'https://images.unsplash.com/photo-1568772585407-9a1775487c08?w=900&q=80&auto=format&fit=crop',
+    img: '/images/bike-brat-1.jpg',
   },
   {
     title: 'CHOPPER',
@@ -60,7 +60,7 @@ const bikes: Bike[] = [
     frame: 'Hardtail Extended',
     hours: '680 hrs build',
     badge: 'Full Scale Work',
-    img: 'https://images.unsplash.com/photo-1558980394-4c7c9299fe96?w=1200&q=80&auto=format&fit=crop',
+    img: '/images/bike-chopper-1.jpg',
     tall: true,
   },
 ];

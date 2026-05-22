@@ -5,10 +5,10 @@ import { motion, useInView } from 'framer-motion';
 import { MessageCircle, Play, ArrowRight, Wrench } from 'lucide-react';
 
 const motorcycleImages = [
-  'https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=1200&q=80',
-  'https://images.unsplash.com/photo-1449426468159-d96dbf08f19f?w=1200&q=80',
-  'https://images.unsplash.com/photo-1571068316344-75bc76f77890?w=1200&q=80',
-  'https://images.unsplash.com/photo-1568772585407-9a1775487c08?w=1200&q=80',
+  '/images/bike-chopper-1.jpg',
+  '/images/bike-scrambler-1.jpg',
+  '/images/bike-cafe-1.jpg',
+  '/images/bike-bobber-1.jpg',
 ];
 
 export default function Hero() {

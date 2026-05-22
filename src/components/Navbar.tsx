@@ -56,9 +56,11 @@ export default function Navbar() {
             href="#"
             className="flex items-center gap-2.5 no-underline group"
           >
-            <span className="inline-flex h-8 w-8 rounded bg-amber items-center justify-center font-display font-extrabold text-xs text-obsidian tracking-tight leading-none group-hover:shadow-[0_0_22px_rgba(255,107,0,0.55)] transition-shadow duration-300">
-              HK
-            </span>
+            <img 
+              src="/images/logo-white.png" 
+              alt="HK Motorworks Logo" 
+              className="h-8 w-auto object-contain group-hover:scale-105 transition-transform duration-300"
+            />
             <span className="font-display font-extrabold text-white text-[0.95rem] sm:text-[1rem] tracking-[0.01em] uppercase">
               Motorworks
             </span>
